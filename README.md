@@ -1,4 +1,7 @@
 # CreaviSpace
+## JAVA : 17
+## SpringBoot : 3.2.1
+
 
 ### 커밋 컨벤션
 |태그이름|설명|
